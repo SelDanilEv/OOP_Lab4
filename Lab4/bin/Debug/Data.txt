@@ -1,0 +1,8 @@
+second
+32
+another entry
+19
+emptystr
+
+NoNameEntry
+

@@ -1,0 +1,7 @@
+E:\Danil\university\OOTPIST\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\Danil\university\OOTPIST\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Danil\university\OOTPIST\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Danil\university\OOTPIST\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\Danil\university\OOTPIST\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Danil\university\OOTPIST\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Danil\university\OOTPIST\Lab4\Lab4\obj\Debug\Lab4.pdb
